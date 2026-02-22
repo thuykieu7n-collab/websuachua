@@ -67,6 +67,7 @@ nav ul li:hover {
 .main-body {
     display: flex;
     padding: 20px;
+    
 }
 
 
@@ -85,7 +86,7 @@ nav ul li:hover {
 
 .sidebar-trai li {
     padding: 10px;
-    border-bottom: 1px solid #ccc;
+   
     
 }
 
@@ -112,4 +113,5 @@ footer {
     text-align: center;
     padding: 15px;
     margin-top: 20px;
+    
 }
